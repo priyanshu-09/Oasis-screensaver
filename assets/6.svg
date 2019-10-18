@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 347.26 347.07">
+        <defs>
+            <style>
+                .cls-1 {
+                    fill: #fff;
+                }
+    
+                .cls-2 {
+                    fill: #e80f4c;
+                }
+            </style>
+        </defs>
+        <title>Asset 3</title>
+        <g id="Layer_2" data-name="Layer 2">
+            <g id="Layer_1-2" data-name="Layer 1">
+                <rect class="cls-1" x="172.04" y="6.72" width="3.71" height="13" />
+                <rect class="cls-1" x="149.76" y="8.18" width="3.71" height="13"
+                    transform="translate(-0.57 21.24) rotate(-8)" />
+                <rect class="cls-1" x="138.75" y="10.06" width="3.71" height="13"
+                    transform="translate(-0.37 29.6) rotate(-12)" />
+                <rect class="cls-1" x="127.91" y="12.72" width="3.71" height="13"
+                    transform="translate(-0.27 36.51) rotate(-16)" />
+                <rect class="cls-1" x="117.27" y="16.12" width="3.71" height="13"
+                    transform="translate(-0.55 42.11) rotate(-20)" />
+                <rect class="cls-1" x="106.89" y="20.25" width="3.71" height="13"
+                    transform="translate(-1.48 46.55) rotate(-24)" />
+                <rect class="cls-1" x="96.83" y="25.1" width="3.71" height="13"
+                    transform="translate(-3.28 50.03) rotate(-28)" />
+                <rect class="cls-1" x="87.14" y="30.64" width="3.71" height="13"
+                    transform="translate(-6.16 52.8) rotate(-32)" />
+                <rect class="cls-1" x="77.85" y="36.84" width="3.71" height="13"
+                    transform="translate(-10.25 55.13) rotate(-36)" />
+                <rect class="cls-1" x="69.01" y="43.68" width="3.71" height="13"
+                    transform="translate(-15.67 57.29) rotate(-40)" />
+                <rect class="cls-1" x="60.68" y="51.11" width="3.71" height="13"
+                    transform="translate(-22.47 59.61) rotate(-44)" />
+                <rect class="cls-1" x="45.67" y="67.63" width="3.71" height="13"
+                    transform="translate(-40.15 65.94) rotate(-52)" />
+                <rect class="cls-1" x="39.06" y="76.63" width="3.71" height="13"
+                    transform="matrix(0.56, -0.83, 0.83, 0.56, -50.88, 70.57)" />
+                <rect class="cls-1" x="33.1" y="86.07" width="3.71" height="13"
+                    transform="translate(-62.69 76.56) rotate(-60)" />
+                <rect class="cls-1" x="27.81" y="95.91" width="3.71" height="13"
+                    transform="translate(-75.39 84.18) rotate(-64)" />
+                <rect class="cls-1" x="23.22" y="106.09" width="3.71" height="13"
+                    transform="translate(-88.71 93.66) rotate(-68)" />
+                <rect class="cls-1" x="19.35" y="116.57" width="3.71" height="13"
+                    transform="translate(-102.39 105.21) rotate(-72)" />
+                <rect class="cls-1" x="16.22" y="127.29" width="3.71" height="13"
+                    transform="translate(-116.11 118.96) rotate(-76)" />
+                <rect class="cls-1" x="13.85" y="138.2" width="3.71" height="13"
+                    transform="translate(-129.53 135.04) rotate(-80)" />
+                <rect class="cls-1" x="12.24" y="149.25" width="3.71" height="13"
+                    transform="translate(-142.28 153.49) rotate(-84)" />
+                <rect class="cls-1" x="11.41" y="160.39" width="3.71" height="13"
+                    transform="translate(-153.99 174.33) rotate(-88)" />
+                <rect class="cls-1" x="12.08" y="182.7" width="3.71" height="13"
+                    transform="translate(-172.77 222.84) rotate(-96)" />
+                <rect class="cls-1" x="13.59" y="193.77" width="3.71" height="13"
+                    transform="translate(-179.1 250.25) rotate(-100)" />
+                <rect class="cls-1" x="15.86" y="204.7" width="3.71" height="13"
+                    transform="translate(-182.93 279.49) rotate(-104)" />
+                <rect class="cls-1" x="18.89" y="215.45" width="3.71" height="13"
+                    transform="translate(-183.94 310.27) rotate(-108)" />
+                <rect class="cls-1" x="22.66" y="225.97" width="3.71" height="13"
+                    transform="translate(-181.84 342.28) rotate(-112)" />
+                <rect class="cls-1" x="27.15" y="236.19" width="3.71" height="13"
+                    transform="translate(-176.4 375.15) rotate(-116)" />
+                <rect class="cls-1" x="32.35" y="246.07" width="3.71" height="13"
+                    transform="translate(-167.43 408.48) rotate(-120)" />
+                <rect class="cls-1" x="35.95" y="252.42" width="4.11" height="14.37"
+                    transform="translate(-155.98 436.28) rotate(-124)" />
+                <rect class="cls-1" x="43.15" y="262.44" width="4.11" height="14.37"
+                    transform="translate(-139.43 471.25) rotate(-128)" />
+                <rect class="cls-1" x="51.05" y="271.94" width="4.11" height="14.37"
+                    transform="translate(-118.8 505.35) rotate(-132)" />
+                <rect class="cls-1" x="67.87" y="288.81" width="3.71" height="13"
+                    transform="translate(-66.69 566.35) rotate(-140)" />
+                <rect class="cls-1" x="76.63" y="295.73" width="3.71" height="13"
+                    transform="translate(-35.65 592.87) rotate(-144)" />
+                <rect class="cls-1" x="85.86" y="302.01" width="3.71" height="13"
+                    transform="translate(-1.38 616.63) rotate(-148)" />
+                <rect class="cls-1" x="95.51" y="307.64" width="3.71" height="13"
+                    transform="translate(35.85 637.23) rotate(-152)" />
+                <rect class="cls-1" x="105.52" y="312.59" width="3.71" height="13"
+                    transform="translate(75.69 654.26) rotate(-156)" />
+                <rect class="cls-1" x="115.86" y="316.82" width="3.71" height="13"
+                    transform="translate(117.75 667.4) rotate(-160)" />
+                <rect class="cls-1" x="126.46" y="320.32" width="3.71" height="13"
+                    transform="translate(161.59 676.35) rotate(-164)" />
+                <rect class="cls-1" x="137.29" y="323.07" width="3.71" height="13"
+                    transform="translate(206.73 680.87) rotate(-168)" />
+                <rect class="cls-1" x="148.28" y="325.06" width="3.71" height="13"
+                    transform="translate(252.66 680.79) rotate(-172)" />
+                <rect class="cls-1" x="159.38" y="326.28" width="3.71" height="13"
+                    transform="translate(298.86 676) rotate(-176)" />
+                <rect class="cls-1" x="181.7" y="326.39" width="3.71" height="13"
+                    transform="translate(389.89 652.16) rotate(176)" />
+                <rect class="cls-1" x="192.81" y="325.27" width="3.71" height="13"
+                    transform="translate(433.62 633.22) rotate(172)" />
+                <rect class="cls-1" x="203.82" y="323.38" width="3.71" height="13"
+                    transform="translate(475.44 609.8) rotate(168)" />
+                <rect class="cls-1" x="214.67" y="320.73" width="3.71" height="13"
+                    transform="translate(514.86 582.11) rotate(164)" />
+                <rect class="cls-1" x="225.3" y="317.33" width="3.71" height="13"
+                    transform="translate(551.38 550.44) rotate(160)" />
+                <rect class="cls-1" x="235.68" y="313.2" width="3.71" height="13"
+                    transform="translate(584.57 515.14) rotate(156)" />
+                <rect class="cls-1" x="245.74" y="308.35" width="3.71" height="13"
+                    transform="translate(614.02 476.6) rotate(152)" />
+                <rect class="cls-1" x="255.44" y="302.81" width="3.71" height="13"
+                    transform="translate(639.4 435.27) rotate(148)" />
+                <rect class="cls-1" x="264.72" y="296.61" width="3.71" height="13"
+                    transform="translate(660.41 391.63) rotate(144)" />
+                <rect class="cls-1" x="273.56" y="289.77" width="3.71" height="13"
+                    transform="translate(676.84 346.2) rotate(140)" />
+                <rect class="cls-1" x="289.69" y="274.34" width="3.71" height="13"
+                    transform="translate(695.33 252.1) rotate(132)" />
+                <rect class="cls-1" x="296.91" y="265.82" width="3.71" height="13"
+                    transform="translate(697.29 204.55) rotate(128)" />
+                <rect class="cls-1" x="303.51" y="256.82" width="3.71" height="13"
+                    transform="translate(694.43 157.4) rotate(124)" />
+                <rect class="cls-1" x="309.48" y="247.37" width="3.71" height="13"
+                    transform="translate(686.86 111.19) rotate(120)" />
+                <rect class="cls-1" x="314.76" y="237.54" width="3.71" height="13"
+                    transform="translate(674.76 66.44) rotate(116)" />
+                <rect class="cls-1" x="319.35" y="227.36" width="3.71" height="13"
+                    transform="translate(658.37 23.64) rotate(112)" />
+                <rect class="cls-1" x="323.22" y="216.88" width="3.71" height="13"
+                    transform="translate(637.98 -16.76) rotate(108)" />
+                <rect class="cls-1" x="326.35" y="206.16" width="3.71" height="13"
+                    transform="translate(613.95 -54.35) rotate(104)" />
+                <rect class="cls-1" x="328.73" y="195.25" width="3.71" height="13"
+                    transform="translate(586.67 -88.78) rotate(100)" />
+                <rect class="cls-1" x="330.33" y="184.19" width="3.71" height="13"
+                    transform="translate(556.56 -119.74) rotate(96)" />
+                <rect class="cls-1" x="331.21" y="161.89" width="3.71" height="13"
+                    transform="translate(489.74 -170.36) rotate(88)" />
+                <rect class="cls-1" x="330.49" y="150.75" width="3.71" height="13"
+                    transform="translate(453.99 -189.72) rotate(84)" />
+                <rect class="cls-1" x="328.99" y="139.68" width="3.71" height="13"
+                    transform="matrix(0.17, 0.98, -0.98, 0.17, 417.35, -205.02)" />
+                <rect class="cls-1" x="326.71" y="128.74" width="3.71" height="13"
+                    transform="translate(380.31 -216.29) rotate(76)" />
+                <rect class="cls-1" x="323.69" y="117.99" width="3.71" height="13"
+                    transform="translate(343.35 -223.59) rotate(72)" />
+                <rect class="cls-1" x="319.92" y="107.48" width="3.71" height="13"
+                    transform="translate(306.92 -227.06) rotate(68)" />
+                <rect class="cls-1" x="315.42" y="97.26" width="3.71" height="13"
+                    transform="translate(271.45 -226.89) rotate(64)" />
+                <rect class="cls-1" x="310.23" y="87.37" width="3.71" height="13"
+                    transform="translate(237.34 -223.33) rotate(60)" />
+                <rect class="cls-1" x="304.35" y="77.88" width="3.71" height="13"
+                    transform="translate(204.93 -216.67) rotate(56)" />
+                <rect class="cls-1" x="297.83" y="68.81" width="3.71" height="13"
+                    transform="matrix(0.62, 0.79, -0.79, 0.62, 174.53, -207.21)" />
+                <rect class="cls-1" x="282.97" y="52.15" width="3.71" height="13"
+                    transform="translate(120.68 -181.4) rotate(44)" />
+                <rect class="cls-1" x="274.71" y="44.64" width="3.71" height="13"
+                    transform="translate(97.58 -165.81) rotate(40)" />
+                <rect class="cls-1" x="265.94" y="37.72" width="3.71" height="13"
+                    transform="translate(77.14 -148.96) rotate(36)" />
+                <rect class="cls-1" x="256.71" y="31.43" width="3.71" height="13"
+                    transform="translate(59.39 -131.26) rotate(32)" />
+                <rect class="cls-1" x="247.06" y="25.8" width="3.71" height="13"
+                    transform="translate(44.3 -113.08) rotate(28)" />
+                <rect class="cls-1" x="237.05" y="20.86" width="3.71" height="13"
+                    transform="translate(31.78 -94.81) rotate(24)" />
+                <rect class="cls-1" x="226.71" y="16.63" width="3.71" height="13"
+                    transform="translate(21.7 -76.78) rotate(20)" />
+                <rect class="cls-1" x="216.11" y="13.13" width="3.71" height="13"
+                    transform="translate(13.85 -59.32) rotate(16)" />
+                <rect class="cls-1" x="205.29" y="10.38" width="3.71" height="13"
+                    transform="translate(8.04 -42.7) rotate(12)" />
+                <rect class="cls-1" x="194.3" y="8.39" width="3.71" height="13"
+                    transform="translate(3.98 -27.15) rotate(8)" />
+                <rect class="cls-1" x="183.2" y="7.17" width="3.71" height="13"
+                    transform="translate(1.4 -12.88) rotate(4)" />
+                <rect class="cls-2" x="160.62" y="0.11" width="3.71" height="20"
+                    transform="translate(-0.31 11.36) rotate(-4)" />
+                <rect class="cls-2" x="50.32" y="53.69" width="3.71" height="20"
+                    transform="translate(-30.07 59.85) rotate(-48)" />
+                <rect class="cls-2" x="8.2" y="168.85" width="3.71" height="20"
+                    transform="translate(-168.33 195.15) rotate(-92)" />
+                <rect class="cls-2" x="57.9" y="280.95" width="3.71" height="20"
+                    transform="translate(-99.36 541.76) rotate(-136)" />
+                <rect class="cls-2" x="171.53" y="327.07" width="3.71" height="20"
+                    transform="translate(346.77 674.13) rotate(-180)" />
+                <rect class="cls-2" x="285.29" y="281.31" width="3.71" height="20"
+                    transform="translate(696.07 301.38) rotate(136)" />
+                <rect class="cls-2" x="335.34" y="169.36" width="3.71" height="20"
+                    transform="translate(528.22 -151.37) rotate(92)" />
+                <rect class="cls-2" x="293.58" y="54.07" width="3.71" height="20"
+                    transform="translate(145.36 -198.36) rotate(48)" />
+            </g>
+        </g>
+    </svg>
